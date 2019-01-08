@@ -1,0 +1,1046 @@
+# <!=Copyright (C) 2018 Rara Theme
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Rara Readable 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-05-24 10:36:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: 404.php:17
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:20
+msgid "error image"
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"The page your are looking for might have been removed, had its name "
+"changed, or is temporarily unavailable."
+msgstr ""
+
+#: 404.php:25
+msgid "Please try using our search box below."
+msgstr ""
+
+#: 404.php:28
+msgid "back to homepage"
+msgstr ""
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+#. translators: %s: row label value
+msgid "Add new %s"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:240
+#. translators: %s: choice limit
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:372
+msgid "Hex Value"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:397
+#: inc/custom-controls/repeater/class-control-repeater.php:402
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+#: inc/custom-controls/repeater/class-control-repeater.php:472
+msgid "Remove"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:408
+#: inc/custom-controls/repeater/class-control-repeater.php:412
+msgid "Add Image"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:408
+#: inc/custom-controls/repeater/class-control-repeater.php:410
+msgid "Change Image"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:433
+#: inc/custom-controls/repeater/class-control-repeater.php:438
+msgid "No File Selected"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:444
+#: inc/custom-controls/repeater/class-control-repeater.php:448
+msgid "Add File"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:444
+#: inc/custom-controls/repeater/class-control-repeater.php:446
+msgid "Change File"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:193
+#: inc/custom-controls/typography/class-typography-control.php:92
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:194
+#: inc/custom-controls/typography/class-typography-control.php:93
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:195
+#: inc/custom-controls/typography/class-typography-control.php:94
+msgid "Light 200"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:196
+#: inc/custom-controls/typography/class-typography-control.php:95
+msgid "Light 200 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:197
+#: inc/custom-controls/typography/class-typography-control.php:96
+msgid "Book 300"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:198
+#: inc/custom-controls/typography/class-typography-control.php:97
+msgid "Book 300 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:199
+#: inc/custom-controls/typography/class-typography-control.php:98
+msgid "Normal 400"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:200
+#: inc/custom-controls/typography/class-typography-control.php:99
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:201
+#: inc/custom-controls/typography/class-typography-control.php:100
+msgid "Medium 500"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:202
+#: inc/custom-controls/typography/class-typography-control.php:101
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:203
+#: inc/custom-controls/typography/class-typography-control.php:102
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:204
+#: inc/custom-controls/typography/class-typography-control.php:103
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:205
+#: inc/custom-controls/typography/class-typography-control.php:104
+msgid "Bold 700"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:206
+#: inc/custom-controls/typography/class-typography-control.php:105
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:207
+#: inc/custom-controls/typography/class-typography-control.php:106
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:208
+#: inc/custom-controls/typography/class-typography-control.php:107
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:209
+#: inc/custom-controls/typography/class-typography-control.php:108
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:210
+#: inc/custom-controls/typography/class-typography-control.php:109
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:46
+msgid "ON"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:47
+msgid "OFF"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:48
+msgid "All"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:49
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:50
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:51
+msgid "Devanagari"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:52
+msgid "Greek"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:53
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:54
+msgid "Khmer"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:55
+msgid "Latin"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:56
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:57
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:58
+msgid "Hebrew"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:59
+msgid "Arabic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:60
+msgid "Bengali"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:61
+msgid "Gujarati"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:62
+msgid "Tamil"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:63
+msgid "Telugu"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:64
+msgid "Thai"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:68
+msgid "Font Family"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:69
+msgid "Font Size"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:70
+msgid "Font Weight"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:71
+msgid "Line Height"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:72
+msgid "Font Style"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:73
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:74
+msgid "Text Align"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:75
+msgid "Text Transform"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:76
+msgid "None"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:77
+msgid "Uppercase"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:78
+msgid "Lowercase"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:79
+msgid "Top"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:80
+msgid "Bottom"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:81
+msgid "Left"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:82
+msgid "Right"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:83
+msgid "Center"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:84
+msgid "Justify"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:85
+msgid "Color"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:86
+msgid "Select a font-family"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:87
+msgid "Variant"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:88
+msgid "Style"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:89
+msgid "Size"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:90
+msgid "Height"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:91
+msgid "Spacing"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:110
+msgid "Invalid Value"
+msgstr ""
+
+#: inc/custom-functions.php:45
+msgid "Primary"
+msgstr ""
+
+#: inc/custom-functions.php:76
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/custom-functions.php:259 inc/template-functions.php:523
+#: inc/template-functions.php:524 inc/template-functions.php:529
+#: inc/template-functions.php:534
+msgid "Y"
+msgstr ""
+
+#: inc/custom-functions.php:261
+msgid "F Y"
+msgstr ""
+
+#: inc/custom-functions.php:263
+msgid "F j, Y"
+msgstr ""
+
+#: inc/custom-functions.php:291
+msgid "Name*"
+msgstr ""
+
+#: inc/custom-functions.php:293
+msgid "Email*"
+msgstr ""
+
+#: inc/custom-functions.php:296
+msgid "Website"
+msgstr ""
+
+#: inc/custom-functions.php:312
+msgid "Comment"
+msgstr ""
+
+#: inc/custom-functions.php:326
+msgid "Leave a Reply:"
+msgstr ""
+
+#: inc/custom-functions.php:327
+msgid "POST NOW"
+msgstr ""
+
+#: inc/customizer/customizer.php:19
+msgid ""
+"How many products should be shown per row? Recommended to use 4 columns and "
+"support up to 6 columns."
+msgstr ""
+
+#: inc/customizer/default-theme-options.php:52
+msgid "Home"
+msgstr ""
+
+#: inc/customizer/default-theme-options.php:53
+msgid ">"
+msgstr ""
+
+#: inc/customizer/default-theme-options.php:58
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/default-theme-options.php:61
+msgid "Related Posts:"
+msgstr ""
+
+#: inc/customizer/default-theme-options.php:70
+#. translators: 1: year, 2: blog name
+msgid "&copy; %1$s %2$s. All Rights Reserved."
+msgstr ""
+
+#: inc/customizer/panels/apperance-settings/apperance-controls.php:15
+msgid "Single Post/Page Fallback Image"
+msgstr ""
+
+#: inc/customizer/panels/apperance-settings/apperance-controls.php:16
+msgid "Fallback image for single post/page header."
+msgstr ""
+
+#: inc/customizer/panels/apperance-settings/apperance-controls.php:20
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/panels/apperance-settings.php:15
+msgid "Apperance Settings"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:19
+msgid "Posts(blog) & Pages Settings"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:41
+msgid "Enable Blog Excerpt "
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:42
+msgid "Enable to show excerpt or disable to show full post content."
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:59
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:60
+msgid "Automatically generated excerpt length ( in words )."
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:96
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:115
+msgid "Hide Category Meta"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:116
+msgid "Enable to hide post category meta."
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:136
+msgid "Hide Posted Date Meta"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:137
+msgid "Enable to hide posted date."
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:157
+msgid "Hide Author Meta"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:158
+msgid "Enable to hide author meta."
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:178
+msgid "Hide Prefix in Archive Page"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:179
+msgid "Enable to hide prefix in archive page."
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:199
+msgid "These options affect your individual posts."
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:219
+msgid "Custom Header as a Fallback Image"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:220
+msgid "Enable to show custom header as a fallback image."
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:240
+msgid "Show Related Posts"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:241
+msgid "Enable to show related posts in single page."
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:269
+msgid "Related Posts Section Title"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:291
+msgid "Show Comments"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/post-page-settings.php:292
+msgid "Enable to show comment in Single Post/Page."
+msgstr ""
+
+#: inc/customizer/panels/general-settings/seo-settings.php:19
+msgid "SEO Settings"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/seo-settings.php:41
+msgid "Enable Last Update Post Date"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/seo-settings.php:42
+msgid "Enable to show last updated post date on listing as well as in single post."
+msgstr ""
+
+#: inc/customizer/panels/general-settings/seo-settings.php:64
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/seo-settings.php:65
+msgid "Enable to show breadcrumb in inner pages."
+msgstr ""
+
+#: inc/customizer/panels/general-settings/seo-settings.php:93
+msgid "Breadcrumb Home Text"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/seo-settings.php:112
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/social-media.php:19
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/social-media.php:50
+msgid "Enable Social Links"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/social-media.php:51
+msgid "Enable to show social links at header."
+msgstr ""
+
+#: inc/customizer/panels/general-settings/social-media.php:73
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/social-media.php:77
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/social-media.php:78
+msgid "Example: fa-bell"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/social-media.php:82
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/social-media.php:83
+msgid "Example: http://facebook.com"
+msgstr ""
+
+#: inc/customizer/panels/general-settings/social-media.php:88
+msgid "links"
+msgstr ""
+
+#: inc/customizer/panels/general-settings.php:15
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/sections/demo-content.php:15
+msgid "Demo Content Import"
+msgstr ""
+
+#: inc/customizer/sections/demo-content.php:27
+#. translators: 1: string, 2: url, 3: string
+msgid ""
+"Rara Readable comes with demo content import feature. You can import the "
+"demo content with just one click. For step-by-step video tutorial, "
+msgstr ""
+
+#: inc/customizer/sections/demo-content.php:27
+#: inc/customizer/sections/demo-content.php:47
+msgid "Click here"
+msgstr ""
+
+#: inc/customizer/sections/demo-content.php:44
+msgid "Plugin required"
+msgstr ""
+
+#: inc/customizer/sections/demo-content.php:44
+msgid "Rara One Click Demo Import"
+msgstr ""
+
+#: inc/customizer/sections/demo-content.php:47
+msgid "Download Demo Content"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:18
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:47
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/sections/info.php:15
+msgid "Demo & Documentation"
+msgstr ""
+
+#: inc/customizer/sections/info.php:30
+#. translators: 1: string, 2: preview url, 3: string
+msgid "Demo Link : "
+msgstr ""
+
+#: inc/customizer/sections/info.php:30
+msgid "https://raratheme.com/preview/rara-readable"
+msgstr ""
+
+#: inc/customizer/sections/info.php:30 inc/customizer/sections/info.php:35
+msgid "Click here."
+msgstr ""
+
+#: inc/customizer/sections/info.php:35
+#. translators: 1: string, 2: documentation url, 3: string
+msgid "Documentation Link : "
+msgstr ""
+
+#: inc/customizer/sections/info.php:134
+msgid "Pro Available"
+msgstr ""
+
+#: inc/customizer/sections/info.php:136
+msgid "VIEW PRO THEME"
+msgstr ""
+
+#: inc/customizer/sections/site-identity.php:45
+msgid "Site Title Font"
+msgstr ""
+
+#: inc/customizer/sections/site-identity.php:46
+msgid "Site title and tagline font."
+msgstr ""
+
+#: inc/customizer/sections/site-identity.php:69
+msgid "Site Title Font Size"
+msgstr ""
+
+#: inc/customizer/sections/site-identity.php:70
+msgid "Change the font size of your site title."
+msgstr ""
+
+#: inc/extras.php:81
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/extras.php:114
+#. translators: %s: author link
+msgid "<b class=\"fn\">%s</b>"
+msgstr ""
+
+#: inc/extras.php:122
+msgid "Edit"
+msgstr ""
+
+#: inc/extras.php:126
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/extras.php:170
+msgid "Georgia"
+msgstr ""
+
+#: inc/extras.php:171
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr ""
+
+#: inc/extras.php:172
+msgid "Times New Roman, Times"
+msgstr ""
+
+#: inc/extras.php:173
+msgid "Arial, Helvetica"
+msgstr ""
+
+#: inc/extras.php:174
+msgid "Arial Black, Gadget"
+msgstr ""
+
+#: inc/extras.php:175
+msgid "Comic Sans MS, cursive"
+msgstr ""
+
+#: inc/extras.php:176
+msgid "Impact, Charcoal"
+msgstr ""
+
+#: inc/extras.php:177
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr ""
+
+#: inc/extras.php:178
+msgid "Tahoma, Geneva"
+msgstr ""
+
+#: inc/extras.php:179
+msgid "Trebuchet MS, Helvetica"
+msgstr ""
+
+#: inc/extras.php:180
+msgid "Verdana, Geneva"
+msgstr ""
+
+#: inc/extras.php:181
+msgid "Courier New, Courier"
+msgstr ""
+
+#: inc/extras.php:182
+msgid "Lucida Console, Monaco"
+msgstr ""
+
+#: inc/extras.php:204
+msgid "Click here to add primary menu"
+msgstr ""
+
+#: inc/template-functions.php:44
+msgid "Menu"
+msgstr ""
+
+#: inc/template-functions.php:292
+#. translators: used between list items, there is a space after the comma
+msgid "Tags"
+msgstr ""
+
+#: inc/template-functions.php:313
+msgid "Page"
+msgstr ""
+
+#: inc/template-functions.php:519
+msgid "Search Results for \""
+msgstr ""
+
+#: inc/template-functions.php:519
+msgid "\""
+msgstr ""
+
+#: inc/template-functions.php:524
+msgid "m"
+msgstr ""
+
+#: inc/template-functions.php:524 inc/template-functions.php:530
+msgid "F"
+msgstr ""
+
+#: inc/template-functions.php:525
+msgid "d"
+msgstr ""
+
+#: inc/template-functions.php:610
+#. translators: %s: paged number
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-functions.php:650
+msgid "404 Error - Page Not Found"
+msgstr ""
+
+#: inc/template-functions.php:653
+msgid " (Page"
+msgstr ""
+
+#: inc/template-functions.php:653
+msgid ")"
+msgstr ""
+
+#: inc/template-functions.php:708
+msgid " Rara Readable by Rara Theme."
+msgstr ""
+
+#: inc/template-functions.php:709
+msgid " Powered by "
+msgstr ""
+
+#: inc/template-functions.php:710
+msgid "WordPress."
+msgstr ""
+
+#: inc/template-functions.php:753 inc/template-functions.php:760
+#. translators: %s: Name of current post.
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-functions.php:766
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-tags.php:50
+msgid "Categories:"
+msgstr ""
+
+#: inc/template-tags.php:76
+msgid "Updated  on: "
+msgstr ""
+
+#: inc/widgets.php:15
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inc/widgets.php:17 inc/widgets.php:27
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets.php:25
+msgid "Footer Sidebar"
+msgstr ""
+
+#: inc/woocommerce-functions.php:66
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce-functions.php:68
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr ""
+
+#: search.php:25
+#. translators: %s: search query.
+msgid "Search results for: %s"
+msgstr ""
+
+#: search.php:31
+#. translators: 1: found post, 2: search query
+msgid ""
+"We found %1$s articles for your search %2$s. You can search again if you "
+"are unsatisfied."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#. translators: 1: link to WP admin new post page.
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Rara Readable"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://raratheme.com/wordpress-themes/rara-readable/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Rara Readable is a clean and minimalist free WordPress blog theme. The "
+"theme is designed for distraction-free reading and focuses on better user "
+"engagement and experience. The theme is easy on eye and a pleasure to read "
+"with its clutter-free design focused on the content with neat fonts and "
+"subtle color scheme. The theme is very lightweight and loads quickly "
+"improving the overall user experience. The theme has a responsive design "
+"and SEO-friendly optimized codes. Rara Readable is Schema friendly so that "
+"your website ranks better on search engines. It is also WooCommerce "
+"compatible and translation ready. Apart from personal blog, it is also "
+"suitable for different kinds of blogs such as lifestyle, travel, food, "
+"fashion, photography, beauty, make-up, parenting or cooking blog. Check the "
+"demo at https://raratheme.com/preview/rara-readable, documentation at "
+"https://raratheme.com/documentation/rara-readable/, and get support at "
+"https://raratheme.com/support-ticket/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://raratheme.com/"
+msgstr ""
+
+#: comments.php:33
+#. translators: 1: comment count number
+msgctxt "comments title"
+msgid "%1$s Comment:"
+msgid_plural "%1$s Comments:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/custom-controls/typography/class-fonts.php:97
+msgctxt "font style"
+msgid "Georgia"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:101
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:105
+msgctxt "font style"
+msgid "Times New Roman, Times"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:109
+msgctxt "font style"
+msgid "Arial, Helvetica"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:113
+msgctxt "font style"
+msgid "Arial Black, Gadget"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:117
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:121
+msgctxt "font style"
+msgid "Impact, Charcoal"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:125
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:129
+msgctxt "font style"
+msgid "Tahoma, Geneva"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:133
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:137
+msgctxt "font style"
+msgid "Verdana, Geneva"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:141
+msgctxt "font style"
+msgid "Courier New, Courier"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:145
+msgctxt "font style"
+msgid "Lucida Console, Monaco"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:65
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:66
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:67
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: inc/typography-functions.php:26
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/typography-functions.php:27
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/typography-functions.php:28
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: searchform.php:2 searchform.php:6
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:9
+msgctxt "label"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:4
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
