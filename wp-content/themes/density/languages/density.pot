@@ -1,0 +1,706 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"norton\n"
+"POT-Creation-Date: "
+"2018-10-09 12:40+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.1.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: 404.php:17
+#: density/404.php:17
+msgid "404"
+msgstr ""
+
+#: 404.php:18
+#: density/404.php:18
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:19
+#: density/404.php:19
+msgid "Back To Home"
+msgstr ""
+
+#: archive.php:38
+#: index.php:43
+msgid " &laquo; Prev"
+msgstr ""
+
+#: archive.php:39
+#: index.php:44
+msgid "Next &raquo;"
+msgstr ""
+
+#: comments.php:33
+#: density/comments.php:33
+#, php-format
+msgid ""
+"One thought on &ldquo;"
+"%s&rdquo;"
+msgstr ""
+
+#: comments.php:37
+#: density/comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment found"
+msgid_plural ""
+"%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:67
+#: density/comments.php:67
+msgid ""
+"Comments are closed."
+msgstr ""
+
+#: comments.php:79
+#: density/comments.php:79
+msgid ""
+"<div class=\"theme-title-"
+"one12\"><h2>Leave a "
+"Comment</h2></div>"
+msgstr ""
+
+#: content-parts/content-none.php:11
+#: density/content-parts/content-none.php:11
+msgid ""
+"Ready to publish your "
+"first post? Get started "
+"here."
+msgstr ""
+
+#: content-parts/content-none.php:15
+#: density/content-parts/content-none.php:15
+msgid ""
+"Sorry, but nothing "
+"matched your search "
+"terms. Please try again "
+"with some different "
+"keywords."
+msgstr ""
+
+#: content-parts/content-none.php:23
+#: density/content-parts/content-none.php:23
+msgid ""
+"It seems we can&rsquo;t "
+"find what you&rsquo;re "
+"looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-parts/content-search.php:19
+#: content-parts/content-single.php:20
+#: content-parts/content.php:21
+#: density/content-parts/content-search.php:19
+#: density/content-parts/content-single.php:19
+#: density/content-parts/content.php:21
+#: density/section-parts/home-page-blog.php:46
+#: section-parts/home-page-blog.php:47
+msgid "By"
+msgstr ""
+
+#: content-parts/content-search.php:20
+#: content-parts/content-single.php:21
+#: content-parts/content.php:22
+#: density/content-parts/content-search.php:20
+#: density/content-parts/content-single.php:20
+#: density/content-parts/content.php:22
+#: density/section-parts/home-page-blog.php:47
+#: section-parts/home-page-blog.php:48
+msgid "0 comments"
+msgstr ""
+
+#: content-parts/content-search.php:20
+#: content-parts/content-single.php:21
+#: content-parts/content.php:22
+#: density/content-parts/content-search.php:20
+#: density/content-parts/content-single.php:20
+#: density/content-parts/content.php:22
+#: density/section-parts/home-page-blog.php:47
+#: section-parts/home-page-blog.php:48
+msgid "1 comments"
+msgstr ""
+
+#: content-parts/content-search.php:20
+#: content-parts/content-single.php:21
+#: content-parts/content.php:22
+#: density/content-parts/content-search.php:20
+#: density/content-parts/content-single.php:20
+#: density/content-parts/content.php:22
+#: density/section-parts/home-page-blog.php:47
+#: section-parts/home-page-blog.php:48
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: content-parts/content-search.php:27
+#: content-parts/content-single.php:28
+#: content-parts/content.php:29
+#: density/content-parts/content-search.php:27
+#: density/content-parts/content-single.php:27
+#: density/content-parts/content.php:29
+msgid " "
+msgstr ""
+
+#: content-parts/content-search.php:36
+#: content-parts/content.php:38
+#: density/content-parts/content-search.php:36
+#: density/content-parts/content.php:38
+#: density/section-parts/home-page-blog.php:53
+#: section-parts/home-page-blog.php:54
+msgid "Continue Reading"
+msgstr ""
+
+#: content-parts/content-single.php:34
+#: density/content-parts/content-single.php:33
+#: density/full-width.php:33
+#: density/page.php:34
+#: full-width.php:32
+#: page.php:33
+msgid "Pages: "
+msgstr ""
+
+#: density/archive.php:37
+#: density/index.php:46
+#: density/search.php:46
+#: search.php:41
+msgid "&laquo;"
+msgstr ""
+
+#: density/archive.php:38
+#: density/index.php:47
+#: density/search.php:47
+#: search.php:42
+msgid "&raquo;"
+msgstr ""
+
+#: density/footer.php:62
+#: footer.php:63
+#, php-format
+msgid ""
+" %1$sPowered by %2$s%3$s"
+msgstr ""
+
+#: density/footer.php:62
+#: footer.php:63
+msgid ""
+"https://wordpress.org/"
+msgstr ""
+
+#: density/footer.php:64
+#: footer.php:65
+#, php-format
+msgid ""
+" Theme: Density by: "
+"%1$sDesign By %2$s%3$s"
+msgstr ""
+
+#: density/footer.php:64
+#: footer.php:65
+msgid ""
+"http://wordpress.org/"
+msgstr ""
+
+#: density/functions.php:66
+#: functions.php:60
+msgid "Primary Menu"
+msgstr ""
+
+#: density/functions.php:133
+#: functions.php:122
+msgid "Blog Sidebar"
+msgstr ""
+
+#: density/functions.php:135
+#: functions.php:124
+msgid ""
+"Sidebar on the blog "
+"layout."
+msgstr ""
+
+#: density/functions.php:146
+#: functions.php:135
+msgid ""
+"Footer Widget Area 1"
+msgstr ""
+
+#: density/functions.php:148
+#: functions.php:137
+msgid ""
+"The footer widget area 1"
+msgstr ""
+
+#: density/functions.php:156
+#: functions.php:145
+msgid ""
+"Footer Widget Area 2"
+msgstr ""
+
+#: density/functions.php:158
+#: functions.php:147
+msgid ""
+"The footer widget area 2"
+msgstr ""
+
+#: density/functions.php:166
+#: functions.php:155
+msgid ""
+"Footer Widget Area 3"
+msgstr ""
+
+#: density/functions.php:168
+#: functions.php:157
+msgid ""
+"The footer widget area 3"
+msgstr ""
+
+#: density/functions.php:185
+#: functions.php:174
+msgid ""
+"Your comment is awaiting "
+"moderation."
+msgstr ""
+
+#: density/functions.php:195
+#: functions.php:184
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: density/functions.php:195
+#: functions.php:184
+msgid "(Edit)"
+msgstr ""
+
+#: density/lib/breadcrumbs.php:16
+#: lib/breadcrumbs.php:16
+msgid "Home"
+msgstr ""
+
+#: density/lib/class-wp-bootstrap-navwalker-mobile.php:368
+#: density/lib/class-wp-bootstrap-navwalker.php:366
+#: lib/class-wp-bootstrap-navwalker-mobile.php:368
+#: lib/class-wp-bootstrap-navwalker.php:366
+msgid "Add a menu"
+msgstr ""
+
+#: density/lib/customizer.php:22
+#: lib/customizer -
+#: Copy.php:22
+#: lib/customizer.php:22
+msgid "Show"
+msgstr ""
+
+#: density/lib/customizer.php:23
+#: lib/customizer -
+#: Copy.php:23
+#: lib/customizer.php:23
+msgid "Hide"
+msgstr ""
+
+#: density/lib/customizer.php:92
+#: lib/customizer -
+#: Copy.php:92
+#: lib/customizer.php:92
+msgid "Density Options"
+msgstr ""
+
+#: density/lib/customizer.php:103
+#: lib/customizer -
+#: Copy.php:103
+#: lib/customizer.php:103
+msgid "Home Slider Section"
+msgstr ""
+
+#: density/lib/customizer.php:124
+#: lib/customizer -
+#: Copy.php:124
+#: lib/customizer.php:124
+msgid "Slider Option"
+msgstr ""
+
+#: density/lib/customizer.php:125
+#: lib/customizer -
+#: Copy.php:125
+#: lib/customizer.php:125
+msgid ""
+"Show/hide option for "
+"Slider Section."
+msgstr ""
+
+#: density/lib/customizer.php:145
+#: lib/customizer -
+#: Copy.php:149
+#: lib/customizer.php:145
+msgid "Slider Page "
+msgstr ""
+
+#: density/lib/customizer.php:162
+#: lib/customizer.php:162
+msgid "Slider Heading Text"
+msgstr ""
+
+#: density/lib/customizer.php:178
+#: lib/customizer.php:178
+msgid ""
+"Slider Sub Heading Text"
+msgstr ""
+
+#: density/lib/customizer.php:194
+#: lib/customizer.php:194
+msgid "Slider Button Text"
+msgstr ""
+
+#: density/lib/customizer.php:210
+#: lib/customizer -
+#: Copy.php:197
+#: lib/customizer.php:210
+msgid ""
+"Slider Button Text 2"
+msgstr ""
+
+#: density/lib/customizer.php:226
+#: density/lib/customizer.php:808
+#: lib/customizer -
+#: Copy.php:181
+#: Copy.php:768
+#: lib/customizer.php:226
+#: lib/customizer.php:794
+msgid "Button URL"
+msgstr ""
+
+#: density/lib/customizer.php:242
+#: lib/customizer -
+#: Copy.php:213
+#: lib/customizer.php:242
+msgid "Button URL 2"
+msgstr ""
+
+#: density/lib/customizer.php:254
+#: lib/customizer -
+#: Copy.php:227
+#: lib/customizer.php:253
+msgid "Social Icon Section"
+msgstr ""
+
+#: density/lib/customizer.php:274
+#: lib/customizer -
+#: Copy.php:247
+#: lib/customizer.php:273
+msgid "Social Icon Option"
+msgstr ""
+
+#: density/lib/customizer.php:275
+#: density/lib/customizer.php:399
+#: density/lib/customizer.php:455
+#: density/lib/customizer.php:545
+#: density/lib/customizer.php:733
+#: lib/customizer -
+#: Copy.php:248
+#: Copy.php:372
+#: Copy.php:428
+#: Copy.php:505
+#: Copy.php:693
+#: lib/customizer.php:274
+#: lib/customizer.php:398
+#: lib/customizer.php:454
+#: lib/customizer.php:531
+#: lib/customizer.php:719
+msgid ""
+"Show/hide option for "
+"Header Section."
+msgstr ""
+
+#: density/lib/customizer.php:294
+#: lib/customizer -
+#: Copy.php:267
+#: lib/customizer.php:293
+msgid "Facebook URL"
+msgstr ""
+
+#: density/lib/customizer.php:312
+#: lib/customizer -
+#: Copy.php:285
+#: lib/customizer.php:311
+msgid "Twitter URL"
+msgstr ""
+
+#: density/lib/customizer.php:330
+#: lib/customizer -
+#: Copy.php:303
+#: lib/customizer.php:329
+msgid "Instagram URL"
+msgstr ""
+
+#: density/lib/customizer.php:348
+#: lib/customizer -
+#: Copy.php:321
+#: lib/customizer.php:347
+msgid "Pinrest URL"
+msgstr ""
+
+#: density/lib/customizer.php:366
+#: lib/customizer -
+#: Copy.php:339
+#: lib/customizer.php:365
+msgid "Linkedin URL"
+msgstr ""
+
+#: density/lib/customizer.php:378
+#: lib/customizer -
+#: Copy.php:351
+#: lib/customizer.php:377
+msgid "About Section"
+msgstr ""
+
+#: density/lib/customizer.php:398
+#: density/lib/customizer.php:454
+#: density/lib/customizer.php:544
+#: density/lib/customizer.php:661
+#: density/lib/customizer.php:732
+#: lib/customizer -
+#: Copy.php:371
+#: Copy.php:427
+#: Copy.php:504
+#: Copy.php:621
+#: Copy.php:692
+#: lib/customizer.php:397
+#: lib/customizer.php:453
+#: lib/customizer.php:530
+#: lib/customizer.php:647
+#: lib/customizer.php:718
+msgid "Section Option"
+msgstr ""
+
+#: density/lib/customizer.php:421
+#: density/lib/customizer.php:499
+#: lib/customizer -
+#: Copy.php:394
+#: Copy.php:472
+#: lib/customizer.php:420
+#: lib/customizer.php:498
+msgid "Feature Page "
+msgstr ""
+
+#: density/lib/customizer.php:434
+#: lib/customizer -
+#: Copy.php:407
+#: lib/customizer.php:433
+msgid "Feature Section"
+msgstr ""
+
+#: density/lib/customizer.php:479
+#: lib/customizer -
+#: Copy.php:452
+#: lib/customizer.php:478
+msgid "Feature Icon "
+msgstr ""
+
+#: density/lib/customizer.php:480
+#: density/lib/customizer.php:628
+#: lib/customizer -
+#: Copy.php:453
+#: Copy.php:588
+#: lib/customizer.php:479
+#: lib/customizer.php:614
+msgid ""
+"Select a icon in this "
+"list <a target=\"_blank"
+"\" href=\"https://"
+"fontawesome.com/v4.7.0/"
+"icons/\">Font Awesome "
+"icons</a> and enter the "
+"class name"
+msgstr ""
+
+#: density/lib/customizer.php:514
+msgid "Image"
+msgstr ""
+
+#: density/lib/customizer.php:524
+#: lib/customizer -
+#: Copy.php:484
+#: lib/customizer.php:510
+msgid "Service Section"
+msgstr ""
+
+#: density/lib/customizer.php:585
+#: lib/customizer -
+#: Copy.php:545
+#: lib/customizer.php:571
+msgid ""
+"Services Section Title"
+msgstr ""
+
+#: density/lib/customizer.php:608
+#: lib/customizer -
+#: Copy.php:568
+#: lib/customizer.php:594
+msgid "Service Page "
+msgstr ""
+
+#: density/lib/customizer.php:627
+#: lib/customizer -
+#: Copy.php:587
+#: lib/customizer.php:613
+msgid ""
+"Service Background Icon "
+msgstr ""
+
+#: density/lib/customizer.php:641
+#: lib/customizer -
+#: Copy.php:601
+#: lib/customizer.php:627
+msgid "Blog Section"
+msgstr ""
+
+#: density/lib/customizer.php:662
+#: lib/customizer -
+#: Copy.php:622
+#: lib/customizer.php:648
+msgid ""
+"Show/hide option for "
+"Blog Section."
+msgstr ""
+
+#: density/lib/customizer.php:702
+#: lib/customizer -
+#: Copy.php:662
+#: lib/customizer.php:688
+msgid "Blog Section Title"
+msgstr ""
+
+#: density/lib/customizer.php:712
+#: lib/customizer -
+#: Copy.php:672
+#: lib/customizer.php:698
+msgid "Callout Section"
+msgstr ""
+
+#: density/lib/customizer.php:754
+#: lib/customizer -
+#: Copy.php:714
+#: lib/customizer.php:740
+msgid "Callout Text"
+msgstr ""
+
+#: density/lib/customizer.php:772
+#: lib/customizer -
+#: Copy.php:732
+#: lib/customizer.php:758
+msgid "Callout Sub Text"
+msgstr ""
+
+#: density/lib/customizer.php:790
+#: lib/customizer -
+#: Copy.php:750
+#: lib/customizer.php:776
+msgid "Callout Button Text"
+msgstr ""
+
+#: density/lib/customizer.php:821
+#: lib/customizer -
+#: Copy.php:781
+#: lib/customizer.php:807
+msgid "Footer Section"
+msgstr ""
+
+#: density/lib/customizer.php:840
+#: lib/customizer -
+#: Copy.php:800
+#: lib/customizer.php:826
+msgid "Footer Option"
+msgstr ""
+
+#: density/lib/customizer.php:841
+#: lib/customizer -
+#: Copy.php:801
+#: lib/customizer.php:827
+msgid ""
+"Show/hide option for "
+"Footer Section."
+msgstr ""
+
+#: density/lib/customizer.php:860
+#: lib/customizer -
+#: Copy.php:820
+#: lib/customizer.php:846
+msgid "Copyright"
+msgstr ""
+
+#: density/lib/extras.php:16
+#: lib/extras.php:16
+msgctxt "placeholder"
+msgid "Search.."
+msgstr ""
+
+#: density/lib/extras.php:16
+#: lib/extras.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: density/section-parts/home-page-about.php:45
+#: density/section-parts/home-page-services.php:55
+#: section-parts/home-page-about.php:46
+#: section-parts/home-page-services.php:60
+msgid "READ MORE"
+msgstr ""
+
+#: footer.php:4
+msgid "To Top"
+msgstr ""
+
+#: functions.php:189
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: lib/customizer -
+#: Copy.php:165
+msgid "Slider Button Text "
+msgstr ""
